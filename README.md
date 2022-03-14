@@ -1,4 +1,4 @@
-# Здравствуй! 👋  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.qif" width="25px"/>
+# Здравствуй! <img src="https://user-images.githubusercontent.com/65610825/158238209-02caa668-7252-42a7-9a6b-2107a48051d9.gif" width="25" height="25"/>
 
 ### Меня зовут Александр, и я Frontend-разработчик
 

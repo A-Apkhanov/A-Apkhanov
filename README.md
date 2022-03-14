@@ -1,4 +1,4 @@
-# Здравствуй! 👋
+# Здравствуй! 👋  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.qif" width="25px"/>
 
 ### Меня зовут Александр, и я Frontend-разработчик
 

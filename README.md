@@ -10,4 +10,4 @@
 * Redux
 * MobX
 
-📫 Связаться со мной: [telegram] (https://t.me/superior_aa)
+📫 Связаться со мной: [telegram](https://t.me/superior_aa)

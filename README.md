@@ -10,4 +10,4 @@
 * Redux
 * MobX
 
-📫 Связаться со мной: [telegram](https://t.me/superior_aa), [e-mail](apkhanov.a.s@gmail.com)
+📫 Связаться со мной: [telegram](https://t.me/superior_aa), [e-mail](mailto:apkhanov.a.s@gmail.com)
